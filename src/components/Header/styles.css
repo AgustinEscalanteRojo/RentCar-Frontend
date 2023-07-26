@@ -1,0 +1,15 @@
+.header {
+    height: 32px;
+}
+
+.content {
+    background-color: aqua;
+    padding: 16px;
+}
+
+
+.title {
+    font-size: 24 px;
+    color: white;
+    line-height: 1.2 ;
+}
